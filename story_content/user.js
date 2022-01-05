@@ -2,44 +2,80 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5V7AdCUH9uM":
+      case "67YEIVIag38":
         Script1();
         break;
-      case "64CeleG9Kxx":
+      case "5f309LcYAlb":
         Script2();
         break;
-      case "6FqSd0ThOGJ":
+      case "6cSZvE0zRus":
         Script3();
         break;
-      case "5VC3EtncwQF":
+      case "67h1f6sEXGJ":
         Script4();
         break;
-      case "67lSAO1GSIU":
+      case "5xqwabzdbik":
         Script5();
         break;
-      case "6PILb4cyEpT":
+      case "5wAeKDVo3dD":
         Script6();
         break;
-      case "5ifi7UkzfO6":
+      case "6qamNb1LlbH":
         Script7();
         break;
-      case "64rkRzpPFHd":
+      case "5yXMtz5zkeX":
         Script8();
         break;
-      case "674qiAQ7lBD":
+      case "6iHDST2rfLw":
         Script9();
         break;
-      case "6Cfhz2hqH2w":
+      case "5jma8Q4Zbfq":
         Script10();
         break;
-      case "6arQviLcFBs":
+      case "625V85iezjr":
         Script11();
         break;
-      case "6gHzzsbnxIm":
+      case "65f3BF0MjxH":
         Script12();
         break;
-      case "6pLGvKm4nBI":
+      case "6TLbFDvIojC":
         Script13();
+        break;
+      case "6pNsVXEEDJR":
+        Script14();
+        break;
+      case "5eDiUZ7GxtV":
+        Script15();
+        break;
+      case "6XvZ0QqUQt5":
+        Script16();
+        break;
+      case "6B6RH7Hrd9T":
+        Script17();
+        break;
+      case "5x819a4muTD":
+        Script18();
+        break;
+      case "6Li6vJnDZPP":
+        Script19();
+        break;
+      case "692vj4lZtdP":
+        Script20();
+        break;
+      case "6HvbvATedC3":
+        Script21();
+        break;
+      case "6bQCanPemRj":
+        Script22();
+        break;
+      case "6dtuRNdHqeA":
+        Script23();
+        break;
+      case "68SIVaE9N3v":
+        Script24();
+        break;
+      case "5wlmDz5U9Zi":
+        Script25();
         break;
   }
 }
@@ -82,20 +118,20 @@ audio.volume = 0.1;
 
 function Script3()
 {
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
 }
 
 function Script4()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
+audio.volume = 0.0;
 }
 
 function Script5()
 {
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
 }
 
 function Script6()
@@ -106,20 +142,20 @@ audio.volume = 0.1;
 
 function Script7()
 {
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
 }
 
 function Script8()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
+audio.volume = 0.0;
 }
 
 function Script9()
 {
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
 }
 
 function Script10()
@@ -130,19 +166,91 @@ audio.volume = 0.1;
 
 function Script11()
 {
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
 }
 
 function Script12()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
+audio.volume = 0.0;
 }
 
 function Script13()
 {
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
+}
+
+function Script14()
+{
+  var audio = document.getElementById('bgSong');
+audio.volume = 0.1;
+}
+
+function Script15()
+{
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
+}
+
+function Script16()
+{
   var audio = document.getElementById('bgSong');
 audio.volume = 0.0;
+}
+
+function Script17()
+{
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
+}
+
+function Script18()
+{
+  var audio = document.getElementById('bgSong');
+audio.volume = 0.1;
+}
+
+function Script19()
+{
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
+}
+
+function Script20()
+{
+  var audio = document.getElementById('bgSong');
+audio.volume = 0.0;
+}
+
+function Script21()
+{
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
+}
+
+function Script22()
+{
+  var audio = document.getElementById('bgSong');
+audio.volume = 0.1;
+}
+
+function Script23()
+{
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
+}
+
+function Script24()
+{
+  var audio = document.getElementById('bgSong');
+audio.volume = 0.0;
+}
+
+function Script25()
+{
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
 }
 
