@@ -2,43 +2,43 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5cXltSO2ci3":
+      case "5V7AdCUH9uM":
         Script1();
         break;
-      case "5rnZbrnBB7y":
+      case "64CeleG9Kxx":
         Script2();
         break;
-      case "6cyVizoNqGO":
+      case "6FqSd0ThOGJ":
         Script3();
         break;
-      case "6pNsMFFxnOE":
+      case "5VC3EtncwQF":
         Script4();
         break;
-      case "6LRDq5aH35I":
+      case "67lSAO1GSIU":
         Script5();
         break;
-      case "5dghtM5vKvj":
+      case "6PILb4cyEpT":
         Script6();
         break;
-      case "5onILIzxBSe":
+      case "5ifi7UkzfO6":
         Script7();
         break;
-      case "6mIXK2rBJRl":
+      case "64rkRzpPFHd":
         Script8();
         break;
-      case "6EtcnrQ5g4v":
+      case "674qiAQ7lBD":
         Script9();
         break;
-      case "60sRFiPijLE":
+      case "6Cfhz2hqH2w":
         Script10();
         break;
-      case "6W5JW6lEHx2":
+      case "6arQviLcFBs":
         Script11();
         break;
-      case "5vpPgtR50jy":
+      case "6gHzzsbnxIm":
         Script12();
         break;
-      case "6P2rCfHOYrL":
+      case "6pLGvKm4nBI":
         Script13();
         break;
   }
@@ -62,7 +62,7 @@ function add_line() {
 if(document.getElementById('bgSong')==null){
 	add_line();
 var audio = document.getElementById('bgSong');
-audio.volume = 0.2;
+audio.volume = 0.1;
 }
 
 var player = GetPlayer();
@@ -77,7 +77,7 @@ audio.play();
 function Script2()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.3;
+audio.volume = 0.1;
 }
 
 function Script3()
@@ -89,7 +89,7 @@ audio.volume = 0.0;
 function Script4()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.2;
+audio.volume = 0.1;
 }
 
 function Script5()
@@ -101,7 +101,7 @@ audio.volume = 0.0;
 function Script6()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.2;
+audio.volume = 0.1;
 }
 
 function Script7()
@@ -113,7 +113,7 @@ audio.volume = 0.0;
 function Script8()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.2;
+audio.volume = 0.1;
 }
 
 function Script9()
@@ -125,7 +125,7 @@ audio.volume = 0.0;
 function Script10()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.2;
+audio.volume = 0.1;
 }
 
 function Script11()
@@ -137,7 +137,7 @@ audio.volume = 0.0;
 function Script12()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.2;
+audio.volume = 0.1;
 }
 
 function Script13()
