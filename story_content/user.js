@@ -2,79 +2,79 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "67YEIVIag38":
+      case "6LUmmjSa088":
         Script1();
         break;
-      case "5f309LcYAlb":
+      case "6LiUqu4XSkf":
         Script2();
         break;
-      case "6cSZvE0zRus":
+      case "6SgwVLpGGWe":
         Script3();
         break;
-      case "67h1f6sEXGJ":
+      case "6EpbMJk59Uc":
         Script4();
         break;
-      case "5xqwabzdbik":
+      case "5XNXzixCXN1":
         Script5();
         break;
-      case "5wAeKDVo3dD":
+      case "6VUeTNzvWm7":
         Script6();
         break;
-      case "6qamNb1LlbH":
+      case "6nPwfSFP26Q":
         Script7();
         break;
-      case "5yXMtz5zkeX":
+      case "5g25miXR7Um":
         Script8();
         break;
-      case "6iHDST2rfLw":
+      case "5lGjyK46soq":
         Script9();
         break;
-      case "5jma8Q4Zbfq":
+      case "5utNZ3ASl40":
         Script10();
         break;
-      case "625V85iezjr":
+      case "6OvStg0N1kH":
         Script11();
         break;
-      case "65f3BF0MjxH":
+      case "6hnrxO8oNrm":
         Script12();
         break;
-      case "6TLbFDvIojC":
+      case "5VrobeuqrU0":
         Script13();
         break;
-      case "6pNsVXEEDJR":
+      case "6J2krr44ieS":
         Script14();
         break;
-      case "5eDiUZ7GxtV":
+      case "5dfwIRwUS6Y":
         Script15();
         break;
-      case "6XvZ0QqUQt5":
+      case "6PAA5fEUVOR":
         Script16();
         break;
-      case "6B6RH7Hrd9T":
+      case "5sZIXc8AfSk":
         Script17();
         break;
-      case "5x819a4muTD":
+      case "5xsXTOQbWgC":
         Script18();
         break;
-      case "6Li6vJnDZPP":
+      case "6LuWMEEV3FU":
         Script19();
         break;
-      case "692vj4lZtdP":
+      case "5YbhPxEhEq0":
         Script20();
         break;
-      case "6HvbvATedC3":
+      case "6T1jL4NyrXB":
         Script21();
         break;
-      case "6bQCanPemRj":
+      case "6EfdyddLtvD":
         Script22();
         break;
-      case "6dtuRNdHqeA":
+      case "5whrbn8IPju":
         Script23();
         break;
-      case "68SIVaE9N3v":
+      case "6clzAWyzYMC":
         Script24();
         break;
-      case "5wlmDz5U9Zi":
+      case "61S7YpVO0v3":
         Script25();
         break;
   }
@@ -137,7 +137,7 @@ appState.onToggleVolume();
 function Script6()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
+audio.volume = 0.0;
 }
 
 function Script7()
@@ -149,7 +149,7 @@ appState.onToggleVolume();
 function Script8()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+audio.volume = 0.1;
 }
 
 function Script9()
