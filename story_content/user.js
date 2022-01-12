@@ -2,290 +2,254 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6qm891EmWcP":
+      case "6fqeFA4bKfi":
         Script1();
         break;
-      case "6Zj6cKaN4RZ":
+      case "5jH75k9LLAc":
         Script2();
         break;
-      case "5pq9A3K6aFK":
+      case "6RGTe5xJM2r":
         Script3();
         break;
-      case "6EwEKRDDmBW":
+      case "68tHaTKT1Dq":
         Script4();
         break;
-      case "5g5iD56ydbm":
+      case "61plb2epoau":
         Script5();
         break;
-      case "6Z4CjYt1tJS":
+      case "6EccxaJYygK":
         Script6();
         break;
-      case "6HuVQIRhOO9":
+      case "6Jm8IMNvKDU":
         Script7();
         break;
-      case "5p3RC5BLHU1":
+      case "6eVPRO8avCX":
         Script8();
         break;
-      case "5cBiU8R07uL":
+      case "6VjaXJ9NmuI":
         Script9();
         break;
-      case "6hDXQuYiFOk":
+      case "6GUBjkEtH8Y":
         Script10();
         break;
-      case "65FNyZiCGYp":
+      case "69hrljgh0Js":
         Script11();
         break;
-      case "5cgQE8HUdFL":
+      case "6kwaQDGi0zd":
         Script12();
         break;
-      case "6GbnkPnaCUk":
+      case "6pJ57A8trM4":
         Script13();
         break;
-      case "5hUc6o2fycV":
+      case "6kSHKzVBrhU":
         Script14();
         break;
-      case "5wYWzZQf5H7":
+      case "6iIKfCRuQzv":
         Script15();
         break;
-      case "5tFKHpfju5S":
+      case "6bVSNCG5ywF":
         Script16();
         break;
-      case "5zb9LWwAiBg":
+      case "5tkUT0Hfuar":
         Script17();
         break;
-      case "655gKRaYnhz":
+      case "6oXzPGusc7j":
         Script18();
         break;
-      case "5WGqNn666Hd":
+      case "6409dPYhkmJ":
         Script19();
         break;
-      case "5ZzNgFEbfjP":
+      case "6b835RJaG7X":
         Script20();
         break;
-      case "5wNcYLYSe13":
+      case "5seHkqkantO":
         Script21();
         break;
-      case "6gob0oTeQjl":
+      case "5zI170rPtED":
         Script22();
         break;
-      case "6WEeyuxuq8k":
+      case "68uNBX9k5a0":
         Script23();
         break;
-      case "6YHNWIBUHH0":
+      case "5oFBesay1xA":
         Script24();
         break;
-      case "5suFABNDUOh":
+      case "6flBuLamh1i":
         Script25();
         break;
-      case "6nBWailTlx7":
+      case "6dMcDw4mMVb":
         Script26();
         break;
-      case "5VMso1TTFN6":
+      case "5X6nGXVDSZr":
         Script27();
         break;
-      case "6lYZJc95uOV":
+      case "6LlbRGQ977v":
         Script28();
         break;
-      case "66hEpMTXvby":
+      case "5zmz9pAmhoa":
         Script29();
         break;
-      case "6Sle5rtbPHU":
+      case "63Mo9gOJzEJ":
         Script30();
         break;
-      case "6qLKz4PJJDI":
+      case "6bvz7J9deSO":
         Script31();
         break;
-      case "6OSpjzfc5oI":
+      case "6n8dYti8mhg":
         Script32();
         break;
-      case "5YzAzpf1NNQ":
+      case "6ULfcuBlUUP":
         Script33();
         break;
-      case "5oG2ZJ8PEsb":
+      case "5zNmx2Ls7eC":
         Script34();
         break;
-      case "6U11WUfVul3":
+      case "6VS3DAv8YPh":
         Script35();
         break;
-      case "6oj6UpUu77x":
+      case "6HeTD1Izb9l":
         Script36();
         break;
-      case "5etbcFQ9F8p":
+      case "5k3TP2dxdWM":
         Script37();
         break;
-      case "6KYr4qLSQu6":
+      case "6PPOSskKIj0":
         Script38();
         break;
-      case "5iUQPtDWskW":
+      case "6PtBdecd0RA":
         Script39();
         break;
-      case "5dgtSIzFpnt":
+      case "6oAmDcx4iB7":
         Script40();
         break;
-      case "681XfBCedBC":
+      case "6rE74jfgtSr":
         Script41();
         break;
-      case "5frVEa79Eee":
+      case "65a7AIxQoNG":
         Script42();
         break;
-      case "5vMBZ6kXWyi":
+      case "6YOeqqoc7kO":
         Script43();
         break;
-      case "6XWlUTVBx6s":
+      case "5qzAhwtKO1p":
         Script44();
         break;
-      case "6NQyg34K5PG":
+      case "6oNlsAvScgV":
         Script45();
         break;
-      case "5jEb89uYJu9":
+      case "6F6qA67TWlJ":
         Script46();
         break;
-      case "5x9gGYoc5cy":
+      case "5jq8t92rHgN":
         Script47();
         break;
-      case "5dmj7bGbNNJ":
+      case "5ZkbLefHl8f":
         Script48();
         break;
-      case "6pOpNHEzLT6":
+      case "6Dmmjmh5zwn":
         Script49();
         break;
-      case "5am6z7j9s0a":
+      case "5mPfNlDDHk6":
         Script50();
         break;
-      case "5W3DokfOa1E":
+      case "5lZKN5npIgH":
         Script51();
         break;
-      case "6EkeclnPn4L":
+      case "6qDdvajsdka":
         Script52();
         break;
-      case "5nCLxIB2mmW":
+      case "6pd3XUgRP1T":
         Script53();
         break;
-      case "6URZv7jIumA":
+      case "5eOd8FTAsqm":
         Script54();
         break;
-      case "5bVwTEGoSfs":
+      case "6XoaU9X6QXh":
         Script55();
         break;
-      case "5sDTWDkXpeC":
+      case "6ELmre7n8k6":
         Script56();
         break;
-      case "6GEsoAigYHw":
+      case "5WwwND76PLb":
         Script57();
         break;
-      case "6EQN8BklqPC":
+      case "6mLOdDekdhz":
         Script58();
         break;
-      case "5zwOyiEINpE":
+      case "5a0gcz2vR3Z":
         Script59();
         break;
-      case "5uJKkB0EaaW":
+      case "5WqaXTKAGg9":
         Script60();
         break;
-      case "6iNsAdct38X":
+      case "5illMqjC8Uc":
         Script61();
         break;
-      case "6VKiEGl3UTN":
+      case "5gNQxZ5oFjq":
         Script62();
         break;
-      case "5lfyTudj8LW":
+      case "6rCTiI15Seq":
         Script63();
         break;
-      case "6pEFEhTpCJW":
+      case "5ufYKb6L9QZ":
         Script64();
         break;
-      case "6NWUoUiLEDo":
+      case "6OZnzKbSm3J":
         Script65();
         break;
-      case "6S4EZ1B1iLp":
+      case "5xkqg7kPylL":
         Script66();
         break;
-      case "6V2V7x666li":
+      case "6nNHTUN64I2":
         Script67();
         break;
-      case "66VtwZYIUpP":
+      case "6QpEGilr67L":
         Script68();
         break;
-      case "5z7Gh15sw4j":
+      case "5vbvK8jzx0U":
         Script69();
         break;
-      case "5jNHJq5FBCy":
+      case "6L94X5cy6TX":
         Script70();
         break;
-      case "6126ddC2Og8":
+      case "6PMKRZVrhe3":
         Script71();
         break;
-      case "6pDDiPExhnq":
+      case "63DdzFnsb2m":
         Script72();
         break;
-      case "6MGIsJY1eC8":
+      case "5qz5adYdcZN":
         Script73();
         break;
-      case "62fszTX0pEa":
+      case "6YQ2FkUi20H":
         Script74();
         break;
-      case "6pL0vEpBDjg":
+      case "6PEBZ7qO45z":
         Script75();
         break;
-      case "6lyxGNtIoGb":
+      case "68KFLtaGfTB":
         Script76();
         break;
-      case "6DNgc9A4rbK":
+      case "6KoVVKRFcfc":
         Script77();
         break;
-      case "6ke4loZTbAH":
+      case "5k9SXFSENCb":
         Script78();
         break;
-      case "5dvAuPKKanH":
+      case "5sKaUtcftKk":
         Script79();
         break;
-      case "69O8oMSJ0JK":
+      case "6Bk46T1WVdU":
         Script80();
         break;
-      case "6UBdPTCwBcR":
+      case "6CITOes0FCL":
         Script81();
         break;
-      case "5c2VUDKqcK2":
+      case "66mU1NCA0lM":
         Script82();
         break;
-      case "5cIwzhpVLXh":
+      case "6UGj4NysMr4":
         Script83();
-        break;
-      case "6eDzqNlEb4o":
-        Script84();
-        break;
-      case "649KaQBB75q":
-        Script85();
-        break;
-      case "5y21bjKK1Pm":
-        Script86();
-        break;
-      case "6DcoOOJDOKp":
-        Script87();
-        break;
-      case "5mHRUeW7BQW":
-        Script88();
-        break;
-      case "6Jti6IYuoFH":
-        Script89();
-        break;
-      case "69ZrWptfPrk":
-        Script90();
-        break;
-      case "5oSsm40cPv2":
-        Script91();
-        break;
-      case "6bsphnStP1r":
-        Script92();
-        break;
-      case "6cQ6fzoSc0B":
-        Script93();
-        break;
-      case "6hC7leuEhGB":
-        Script94();
-        break;
-      case "5bmhKZnaHik":
-        Script95();
         break;
   }
 }
@@ -707,7 +671,7 @@ appState.onToggleVolume();
 function Script66()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+audio.volume = 0.1;
 }
 
 function Script67()
@@ -719,7 +683,7 @@ appState.onToggleVolume();
 function Script68()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
+audio.volume = 0.0;
 }
 
 function Script69()
@@ -731,7 +695,7 @@ appState.onToggleVolume();
 function Script70()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+audio.volume = 0.1;
 }
 
 function Script71()
@@ -743,7 +707,7 @@ appState.onToggleVolume();
 function Script72()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
+audio.volume = 0.0;
 }
 
 function Script73()
@@ -754,44 +718,92 @@ appState.onToggleVolume();
 
 function Script74()
 {
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+  //load the scripts dynamically into the head of the document
+function add_line() {
+    var line = document.createElement("audio");
+    var head=document.getElementsByTagName('body')[0];
+    line.type = "audio/mp3";
+    line.src="";
+    line.id="bgSong" ;
+	line.autoplay = true;
+	line.loop = true;
+    head.appendChild(line);
+}
+
+//but we only want to add these once!
+if(document.getElementById('bgSong')==null){
+	add_line();
+var audio = document.getElementById('bgSong');
+audio.volume = 0.1;
+}
+
+var player = GetPlayer();
+this.Location= player.GetVar("location");
+
+var audio = document.getElementById('bgSong');
+audio.src=Location+"bg_audio.mp3";
+audio.load();
+audio.play();
 }
 
 function Script75()
 {
-  var appState = window.DS ? DS.appState : require("helpers/appState");
-appState.onToggleVolume();
+  var audio = document.getElementById('bgSong');
+audio.volume = 0.1;
 }
 
 function Script76()
 {
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
 }
 
 function Script77()
 {
-  var appState = window.DS ? DS.appState : require("helpers/appState");
-appState.onToggleVolume();
+  var audio = document.getElementById('bgSong');
+audio.volume = 0.0;
 }
 
 function Script78()
 {
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
+  var appState = window.DS ? DS.appState : require("helpers/appState");
+appState.onToggleVolume();
 }
 
 function Script79()
 {
-  var appState = window.DS ? DS.appState : require("helpers/appState");
-appState.onToggleVolume();
+  //load the scripts dynamically into the head of the document
+function add_line() {
+    var line = document.createElement("audio");
+    var head=document.getElementsByTagName('body')[0];
+    line.type = "audio/mp3";
+    line.src="";
+    line.id="bgSong" ;
+	line.autoplay = true;
+	line.loop = true;
+    head.appendChild(line);
+}
+
+//but we only want to add these once!
+if(document.getElementById('bgSong')==null){
+	add_line();
+var audio = document.getElementById('bgSong');
+audio.volume = 0.1;
+}
+
+var player = GetPlayer();
+this.Location= player.GetVar("location");
+
+var audio = document.getElementById('bgSong');
+audio.src=Location+"bg_audio.mp3";
+audio.load();
+audio.play();
 }
 
 function Script80()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
+audio.volume = 0.1;
 }
 
 function Script81()
@@ -803,130 +815,10 @@ appState.onToggleVolume();
 function Script82()
 {
   var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
+audio.volume = 0.0;
 }
 
 function Script83()
-{
-  var appState = window.DS ? DS.appState : require("helpers/appState");
-appState.onToggleVolume();
-}
-
-function Script84()
-{
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
-}
-
-function Script85()
-{
-  var appState = window.DS ? DS.appState : require("helpers/appState");
-appState.onToggleVolume();
-}
-
-function Script86()
-{
-  //load the scripts dynamically into the head of the document
-function add_line() {
-    var line = document.createElement("audio");
-    var head=document.getElementsByTagName('body')[0];
-    line.type = "audio/mp3";
-    line.src="";
-    line.id="bgSong" ;
-	line.autoplay = true;
-	line.loop = true;
-    head.appendChild(line);
-}
-
-//but we only want to add these once!
-if(document.getElementById('bgSong')==null){
-	add_line();
-var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
-}
-
-var player = GetPlayer();
-this.Location= player.GetVar("location");
-
-var audio = document.getElementById('bgSong');
-audio.src=Location+"bg_audio.mp3";
-audio.load();
-audio.play();
-}
-
-function Script87()
-{
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
-}
-
-function Script88()
-{
-  var appState = window.DS ? DS.appState : require("helpers/appState");
-appState.onToggleVolume();
-}
-
-function Script89()
-{
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
-}
-
-function Script90()
-{
-  var appState = window.DS ? DS.appState : require("helpers/appState");
-appState.onToggleVolume();
-}
-
-function Script91()
-{
-  //load the scripts dynamically into the head of the document
-function add_line() {
-    var line = document.createElement("audio");
-    var head=document.getElementsByTagName('body')[0];
-    line.type = "audio/mp3";
-    line.src="";
-    line.id="bgSong" ;
-	line.autoplay = true;
-	line.loop = true;
-    head.appendChild(line);
-}
-
-//but we only want to add these once!
-if(document.getElementById('bgSong')==null){
-	add_line();
-var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
-}
-
-var player = GetPlayer();
-this.Location= player.GetVar("location");
-
-var audio = document.getElementById('bgSong');
-audio.src=Location+"bg_audio.mp3";
-audio.load();
-audio.play();
-}
-
-function Script92()
-{
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.1;
-}
-
-function Script93()
-{
-  var appState = window.DS ? DS.appState : require("helpers/appState");
-appState.onToggleVolume();
-}
-
-function Script94()
-{
-  var audio = document.getElementById('bgSong');
-audio.volume = 0.0;
-}
-
-function Script95()
 {
   var appState = window.DS ? DS.appState : require("helpers/appState");
 appState.onToggleVolume();
